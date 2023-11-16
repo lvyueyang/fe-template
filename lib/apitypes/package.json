@@ -1,0 +1,13 @@
+{
+  "name": "@ate/apitypes",
+  "version": "1.0.0",
+  "private": true,
+  "main": "interface.ts",
+  "scripts": {
+    "start": "node gen.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "swagger-typescript-api": "^12.0.4"
+  }
+}
